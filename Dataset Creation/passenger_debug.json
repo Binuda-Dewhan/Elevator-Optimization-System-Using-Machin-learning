@@ -1,0 +1,30 @@
+[
+    {
+        "Passenger ID": 1,
+        "Time": "08:00:30 AM",
+        "Floor": 1,
+        "Direction": "up",
+        "Destination Floor": 2
+    },
+    {
+        "Passenger ID": 2,
+        "Time": "08:00:30 AM",
+        "Floor": 1,
+        "Direction": "up",
+        "Destination Floor": 6
+    },
+    {
+        "Passenger ID": 3,
+        "Time": "08:00:30 AM",
+        "Floor": 1,
+        "Direction": "up",
+        "Destination Floor": 4
+    },
+    {
+        "Passenger ID": 4,
+        "Time": "08:00:30 AM",
+        "Floor": 1,
+        "Direction": "up",
+        "Destination Floor": 4
+    }
+]
