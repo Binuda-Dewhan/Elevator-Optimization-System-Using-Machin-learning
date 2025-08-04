@@ -1,0 +1,19 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+pillow
+
+# GUI and Visualization
+pygame
+PyOpenGL
+PyOpenGL_accelerate
+
+# Gym (RL simulation environment)
+gym[classic_control]
+
+# Firebase Admin SDK
+firebase-admin
+
+# Optional: if your code uses these explicitly
+tk
